@@ -1,2 +1,3 @@
 # app-ads.txt
-app-ads.txt for Image to PDF Converter
+google.com, pub-4369035593214977, DIRECT, f08c47fec0942fa0
+
